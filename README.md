@@ -4,6 +4,7 @@ A fun practice that use TDD to complete the challenge
 https://leetcode.com/problems/valid-number/
 
 ## PROJECT STRUCTURE
+```text
 ./leetcode-validnumber/
 ├── README.md
 ├── requirements.txt
@@ -15,6 +16,7 @@ https://leetcode.com/problems/valid-number/
         └── test_valid_number.py
 
 2 directories, 6 files
+```
 
 ## INSTALL DEPENDENCY
 pip install -r requirements.txt
